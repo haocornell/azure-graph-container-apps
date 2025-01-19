@@ -8,3 +8,7 @@ python-dotenv
 SQLAlchemy
 gunicorn
 azure-identity
+azure-kusto-data
+pandas
+azure-ai-projects 
+azure-ai-inference
